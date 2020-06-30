@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\bin\Debug\OpenCvSharp.DebuggerVisualizers.pdb
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\bin\Debug\Cyotek.Windows.Forms.ImageBox.dll
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\bin\Debug\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\bin\Debug\Cyotek.Windows.Forms.ImageBox.xml
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\obj\Debug\OpenCvSharp.DebuggerVisualizers.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\obj\Debug\OpenCvSharp.DebuggerVisualizers.ImageViewer.resources
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\obj\Debug\OpenCvSharp.DebuggerVisualizers.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\obj\Debug\OpenCvSharp.DebuggerVisualizers.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\obj\Debug\OpenCvSharp.DebuggerVisualizers.csproj.CopyComplete
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\obj\Debug\OpenCvSharp.DebuggerVisualizers.dll
+C:\Users\Administrator\Desktop\opecvsharpDebuggerVisualizer\OpenCvSharp.DebuggerVisualizers\obj\Debug\OpenCvSharp.DebuggerVisualizers.pdb
